@@ -8,9 +8,10 @@ A portfolio site used to display web development projects. Created with HTML5, C
 11/7/17: 
 
 Contact and rates pages are on the back burner for now. 
+
 Currently (in portfolio-index.html): Rewriting hard-coded HTML into JavaScript so new portfolio items can be added as JavaScript objects. Portfolio-index.html is otherwise complete for current purpose. New items will be added as necessary.
 
-Portfolio site is complete for current purpose. Used as my live portfolio site in conjunction with resume component. Resume.html and corresponding files are in a separate repository at KerensaMathews/dynamic-resume. (Separate repositories because they were originally separate Udacity projects with different purposes. skills tested, and languages used.)
+Portfolio site is complete for current purpose. Used as live portfolio site in conjunction with resume component. Resume.html and corresponding files are in a separate repository at KerensaMathews/dynamic-resume. (Separate repositories because they were originally separate Udacity projects with different purposes. skills tested, and languages used.)
 
 ~~### Issues with resume page:~~
 
